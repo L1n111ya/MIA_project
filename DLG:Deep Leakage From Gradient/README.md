@@ -2,6 +2,6 @@
 ***
 ```
 # Using code like this:
-python main.py --index $INDEX-NUM
+python dlg.py --index $INDEX-NUM
 # Or
-python main --image $YOUR-IMAGE-MANE
+python dlg.py --image $YOUR-IMAGE-MANE
